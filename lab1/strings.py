@@ -7,7 +7,7 @@ txt="Hello World"
 x=txt[2:5]
 
 #3
-txt="Hello World"
+txt=" Hello World "
 txt=txt.strip()
 
 #4
