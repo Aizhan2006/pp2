@@ -1,4 +1,4 @@
-"""
+
 #1
 x=5
 print(type(x))
@@ -34,7 +34,7 @@ x = {"name" : "John", "age" : 36}
 print(type(x))
 
 dict
-"""
+
 
 
 #7
